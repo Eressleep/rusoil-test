@@ -1,0 +1,15 @@
+.form__inner{
+    min-height: 100vh;
+}
+
+.form__inner > form{
+    margin: 48px 0;
+}
+
+select > option:first-child{
+    display: none;
+}
+
+.form__composition-application-item-hidden{
+    display: none;
+}
